@@ -3,7 +3,7 @@ massive-octo-hipster
 
 Ver 1.1 ...
 
-Ver 1.0 2/1/2014 - adding the framework menus and basic construct, looking at ask-ziggy.com api and www.wolframalpha.com api. 
+Ver 1.0 2/1/2014 - adding the framework menus and basic construct, looking at www.ask-ziggy.com api and www.wolframalpha.com (https://developer.wolframalpha.com/portal/signin.html) api. 
 
 
 
