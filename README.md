@@ -1,7 +1,19 @@
 massive-octo-hipster
 ====================
 
+Ver 1.1 ...
+
+Ver 1.0 2/1/2014 - adding the framework menus and basic construct, looking at ask-ziggy.com api and www.wolframalpha.com api. 
+
+
+
+
+
+
+
 What to look for when brainstorming this app.
+
+Aside intro:
 
 In late 2011, reports surfaced that Google was greatly enhancing their product Google Voice Search for the next version of Android. It was originally code named "Majel" after Majel Barrett, the wife of Gene Roddenberry, and well known as the voice of computer systems in his Star Trek franchise; it was also codenamed "assistant".[3]
 
