@@ -6,7 +6,10 @@ Ver 1.1 ...
 Ver 1.0 2/1/2014 - adding the framework menus and basic construct, looking at www.ask-ziggy.com api and www.wolframalpha.com (https://developer.wolframalpha.com/portal/signin.html) api. 
 
 
+Resources:
 
+<iframe src="https://www.manymo.com/embed/Pki9uTJFHM" width="318" height="497" frameborder="0"></iframe>
+          
 
 
 
