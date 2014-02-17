@@ -9,8 +9,9 @@ Ver 1.0 2/1/2014 - adding the framework menus and basic construct, looking at ww
 Resources:
 
 <iframe src="https://www.manymo.com/embed/Pki9uTJFHM" width="318" height="497" frameborder="0"></iframe>
-    <a href=" https://www.manymo.com/embed/Pki9uTJFHM">emulator</a>     
-
+    https://codenvy.com/
+    https://www.manymo.com/embed/Pki9uTJFHM    
+    http://jsfiddle.net/
 
 
 
