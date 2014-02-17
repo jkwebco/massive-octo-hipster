@@ -10,7 +10,7 @@ Resources:
 
 <iframe src="https://www.manymo.com/embed/Pki9uTJFHM" width="318" height="497" frameborder="0"></iframe>
     https://codenvy.com/
-    https://www.manymo.com/embed/Pki9uTJFHM    
+    https://www.manymo.com/
     http://jsfiddle.net/
 
 
