@@ -12,6 +12,7 @@ Resources:
     https://codenvy.com/
     https://www.manymo.com/
     http://jsfiddle.net/
+    http://cloudbees.com/
 
 
 
